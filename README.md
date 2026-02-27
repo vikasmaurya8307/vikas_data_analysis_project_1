@@ -18,13 +18,11 @@ This dashboard provides insights into:
 
 ## 📊 Dashboard Preview
 
-## 📊 Vikas Data Analysis Portfolio
+## 📊 Vikas Data Analysis project_1
 
 ## 🔹 Dashboard 1 – Sales Overview
-![Dashboard1](Vikas_GitHub_Portfolio_Project_Files/dashboard1.png)
 
-## 🔹 Dashboard 2 – Profit Analysis
-![Dashboard2](Vikas_GitHub_Portfolio_Project_Files/dashboard2.png)
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/8b9bfa73-9314-4f6d-be2c-2fe37189edcc" />
 
 ---
 
