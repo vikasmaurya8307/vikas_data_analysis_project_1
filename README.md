@@ -45,7 +45,7 @@ This dashboard provides insights into:
 ## 📂 Project Files
 All datasets, Power BI files, and resources are available in the folder:
 
-`Vikas_GitHub_Portfolio_Project_Files`
+https://github.com/vikasmaurya8307/vikas_data_analysis_project_1/tree/907e1fd08e228862d3a010a0bce8ddd52b5750b2/Vikas_GitHub_Portfolio_Project_Files`
 
 ---
 
